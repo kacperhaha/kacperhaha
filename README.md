@@ -50,9 +50,9 @@
 <div align="center">
   <strong>📫 Contact: (Click on image)</strong>
 <br>
-<a href="https://www.instagram.com/kacperhaha11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+<a href="https://www.instagram.com/kacperhaha11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br>
-<a href="https://discordapp.com/users/215383653495209984"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://discordapp.com/users/215383653495209984"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  
 </div>
 <hr>
